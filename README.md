@@ -2,15 +2,14 @@
 
 
 ## 🌟 Sobre Mim
-Sou Engenheiro de Testes de Software com sólida experiência em testes manuais, de performance e automatizados, pipelines CI/CD e manutenção de Selenium Grid. Tenho paixão por desenvolvimento de software, aplicações web e mobile, tecnologia educacional e criação de projetos pessoais em Flutter, React, Java e backend.  
-
-Formado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Engenharia de Redes e Segurança de Dados e experiência em mecatrônica. Comprometido com aprendizado contínuo, entrega de resultados de alta qualidade e trabalho colaborativo em ambientes remotos ou híbridos.
+Sou Desenvolvedor Fullstack na GoClin, atuando no desenvolvimento de soluções web e na integração entre frontend e backend. Tenho paixão por desenvolvimento de software, aplicações web e mobile, tecnologia educacional e criação de projetos pessoais. Sou apaixonado por tecnologia, desenvolvimento de software e criação de projetos inovadores em Flutter, React, Java e backend. Formado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Engenharia de Redes e Segurança de Dados e experiência em mecatrônica. Tenho como foco o aprendizado contínuo, a entrega de resultados de alta qualidade e a colaboração em ambientes remotos e híbridos.
 
 ---
 
 ## 🏢 Meus Papéis
+- Desenvolvedor Fullstack na GoClin, atuando no desenvolvimento e manutenção de aplicações web/mobile.
 - Professor de Programação no Senac – Novo Hamburgo, ensinando Lógica de Programação e Front-end com HTML5, CSS3, JavaScript e React.  
-- SDET na Wipro.  
+- Engenheiro de Testes de Software (SDET) na Wipro.  
 - Analista de Testes de Software (manual, performance e automatizado) em empresas como Syonet e Testing Company.  
 - Desenvolvedor de soluções pessoais em Flutter, React e backend.  
 - Criador do ERP para oficinas mecânicas e outros projetos de software.
