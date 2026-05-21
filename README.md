@@ -2,7 +2,7 @@
 
 
 ## 🌟 Sobre Mim
-Sou Desenvolvedor Fullstack na GoClin, atuando no desenvolvimento de soluções web e na integração entre frontend e backend. Tenho paixão por desenvolvimento de software, aplicações web e mobile, tecnologia educacional e criação de projetos pessoais. Sou apaixonado por tecnologia, desenvolvimento de software e criação de projetos inovadores em Flutter, React, Java e backend. 
+Sou Desenvolvedor Fullstack, possuo sólida experiência com desenvolvimento de soluções web e na integração entre frontend e backend. Tenho paixão por desenvolvimento de software, aplicações web e mobile, tecnologia educacional e criação de projetos pessoais. Sou um grande entusiasta com tecnologia, desenvolvimento de software e criação de projetos inovadores. 
 
 
 Formado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Engenharia de Redes e Segurança de Dados e experiência em mecatrônica. Tenho como foco o aprendizado contínuo, a entrega de resultados de alta qualidade e a colaboração em ambientes remotos e híbridos.
